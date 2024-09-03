@@ -48,13 +48,13 @@ const Header = () => {
 
                     <ul className="flex flex-col md:flex-row md:space-x-6 space-y-4 md:space-y-0 mt-12 md:mt-0 md:p-0 p-4 text-left">
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 Car Tyres
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         SUV Tyres
@@ -62,7 +62,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Sedan Tyres
@@ -70,7 +70,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Hatchback Tyres
@@ -79,13 +79,13 @@ const Header = () => {
                             </ul>
                         </li>
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 Bike Tyres
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Sports Bike Tyres
@@ -93,7 +93,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Cruiser Tyres
@@ -101,7 +101,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Scooter Tyres
@@ -110,13 +110,13 @@ const Header = () => {
                             </ul>
                         </li>
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 Tyre Pressure
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Pressure Monitors
@@ -124,7 +124,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Pressure Gauges
@@ -133,13 +133,13 @@ const Header = () => {
                             </ul>
                         </li>
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 Commercial Tyres
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Truck Tyres
@@ -147,7 +147,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Bus Tyres
@@ -155,7 +155,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Van Tyres
@@ -164,13 +164,13 @@ const Header = () => {
                             </ul>
                         </li>
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 Accessories
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Car Accessories
@@ -178,7 +178,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Bike Accessories
@@ -187,13 +187,13 @@ const Header = () => {
                             </ul>
                         </li>
                         <li className="group relative">
-                            <a href="#" className="hover:text-gray-300">
+                            <a href="/" className="hover:text-gray-300">
                                 More
                             </a>
                             <ul className="md:absolute left-0 hidden group-hover:block bg-gray-700 mt-2 py-2 rounded shadow-lg">
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         Tyre Care Tips
@@ -201,7 +201,7 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="#"
+                                        href="/"
                                         className="block px-4 py-2 hover:bg-gray-600"
                                     >
                                         FAQs
@@ -213,7 +213,7 @@ const Header = () => {
                         {isMobile && (
                             <li className="mt-4">
                                 <a
-                                    href="#"
+                                    href="/"
                                     className="text-white hover:text-gray-300 flex items-center"
                                 >
                                     Login
@@ -224,7 +224,7 @@ const Header = () => {
                 </nav>
 
                 {!isMobile && (
-                    <a href="#" className="text-white hover:text-gray-300">
+                    <a href="/" className="text-white hover:text-gray-300">
                         <FaUserCircle size={24} />
                     </a>
                 )}
