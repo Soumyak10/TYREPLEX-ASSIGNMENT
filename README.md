@@ -49,18 +49,3 @@ To run this project locally, follow these steps:
     ```
 
     The project will be available at `http://localhost:3000` in your browser.
-
-## Deployment
-
-This project is deployed on Netlify. If you wish to deploy your version:
-
-1. **Build the project:**
-
-    ```bash
-    npm run build
-    ```
-
-2. **Deploy to Netlify**:
-
-    - Connect your GitHub repository to Netlify.
-    - Set the build command to `npm run build` and the publish directory to `build`.
