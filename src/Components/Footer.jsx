@@ -28,22 +28,22 @@ const Footer = () => {
                         </h3>
                         <ul>
                             <li>
-                                <a href="" className="hover:underline">
+                                <a href="/" className="hover:underline">
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="" className="hover:underline">
+                                <a href="/" className="hover:underline">
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a href="" className="hover:underline">
+                                <a href="/" className="hover:underline">
                                     Services
                                 </a>
                             </li>
                             <li>
-                                <a href="" className="hover:underline">
+                                <a href="/" className="hover:underline">
                                     Contact
                                 </a>
                             </li>
@@ -73,25 +73,25 @@ const Footer = () => {
                         </h3>
                         <div className="flex space-x-4">
                             <a
-                                href=""
+                                href="/"
                                 className="text-gray-400 hover:text-white transition duration-300 ease-in-out"
                             >
                                 <FaFacebookF className="text-2xl" />
                             </a>
                             <a
-                                href=""
+                                href="/"
                                 className="text-gray-400 hover:text-white transition duration-300 ease-in-out"
                             >
                                 <FaTwitter className="text-2xl" />
                             </a>
                             <a
-                                href=""
+                                href="/"
                                 className="text-gray-400 hover:text-white transition duration-300 ease-in-out"
                             >
                                 <FaInstagram className="text-2xl" />
                             </a>
                             <a
-                                href=""
+                                href="/"
                                 className="text-gray-400 hover:text-white transition duration-300 ease-in-out"
                             >
                                 <FaLinkedinIn className="text-2xl" />

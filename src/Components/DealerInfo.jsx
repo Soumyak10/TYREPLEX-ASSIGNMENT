@@ -84,10 +84,12 @@ const DealerInfo = () => {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                             <img
                                 src="https://c8.alamy.com/comp/S13TEA/a-mechanic-balances-a-wheel-at-a-tyre-shop-in-kuala-lumpur-malaysia-S13TEA.jpg"
+                                alt="Image 1"
                                 className="w-full h-60 object-cover rounded-lg"
                             />
                             <img
                                 src="https://media.gettyimages.com/id/1489285831/photo/mechanic-changing-a-car-tire-and-talking-to-his-client-at-the-repair-garage.jpg?s=612x612&w=gi&k=20&c=6hcG3HO6tpZWLacEhQJQY5UKBCcT6JGrkmlFtxXvepM="
+                                alt="Image 2"
                                 className="w-full h-60 object-cover rounded-lg"
                             />
                         </div>
