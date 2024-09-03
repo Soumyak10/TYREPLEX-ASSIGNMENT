@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="container mx-auto px-4">
                 <div className="flex flex-wrap justify-between">
                     {/* Footer Logo and Description */}
-                    <div className="w-full md:w-1/4 mb-6 md:mb-0">
+                    <div className="w-full md:w-1/5 mb-6 md:mb-0">
                         <h2 className="text-2xl font-bold mb-4">TyrePlex</h2>
                         <p className="text-gray-400">
                             Providing high-quality tyres and excellent services
@@ -22,7 +22,7 @@ const Footer = () => {
                     </div>
 
                     {/* Navigation Links */}
-                    <div className="w-full md:w-1/4 mb-6 md:mb-0">
+                    <div className="w-full md:w-1/5 mb-6 md:mb-0">
                         <h3 className="text-lg font-semibold mb-4">
                             Quick Links
                         </h3>
@@ -51,7 +51,7 @@ const Footer = () => {
                     </div>
 
                     {/* Contact Information */}
-                    <div className="w-full md:w-1/4 mb-6 md:mb-0">
+                    <div className="w-full md:w-1/5 mb-6 md:mb-0">
                         <h3 className="text-lg font-semibold mb-4">
                             Contact Us
                         </h3>
@@ -67,7 +67,7 @@ const Footer = () => {
                     </div>
 
                     {/* Social Media Links */}
-                    <div className="w-full md:w-1/4">
+                    <div className="w-full md:w-1/5">
                         <h3 className="text-lg font-semibold mb-4">
                             Follow Us
                         </h3>
