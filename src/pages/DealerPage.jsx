@@ -11,7 +11,7 @@ const DealerPage = () => {
     return (
         <div className="bg-gray-50 min-h-screen">
             <Header />
-            <main className="container mx-auto px-4">
+            <main className="container mx-auto py-4">
                 <DealerInfo />
                 <TyreBrands />
                 <ServicesOffered />
